@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "93500176614",
+    "project_id": "barcode-scanner-eb297",
+    "storage_bucket": "barcode-scanner-eb297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93500176614:android:dfbc4bf02e3d9c165f2327",
+        "android_client_info": {
+          "package_name": "com.example.game_barcode_scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "93500176614-6mghbj1k9jupacegpjll908bq0rvfllp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTB1D1YT2M27_IAaUITcKetLydeQbjdrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "93500176614-6mghbj1k9jupacegpjll908bq0rvfllp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
